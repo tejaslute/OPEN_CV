@@ -17,3 +17,5 @@ imgoutput=cv2.warpPerspective(img,matrix,(width,height))
 cv2.imshow("Output",imgoutput)
 
 cv2.waitKey(0);
+
+# Cuts an image as according toan givemn ccordiabnted . We use matrix to get coordinates of imaghe accodinglty we crop it
