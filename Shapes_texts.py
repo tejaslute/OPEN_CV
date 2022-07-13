@@ -14,4 +14,4 @@ cv2.imshow("rectangle_filled ",img);
 
 cv2.putText(img,"OPENCV",(300,200),cv2.FONT_HERSHEY_COMPLEX,1,(1,150,1),1)
 cv2.imshow("Text_filled ",img);
-cv2.waitKey(0);
+cv2.waitKey(0); 
