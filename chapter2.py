@@ -13,7 +13,7 @@ cv2.waitKey(0);
 
 '''
 
-#cropped images
+# cropped images
 
 img=cv2.imread("Resources/photo.jpeg")
 print(img.shape)
